@@ -58,7 +58,7 @@ var root = document.documentElement;
 var state = 'none';
 var stateOrigin;
 var stateTf = root.createSVGMatrix();
-var cursorGrab = ' url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAlQTFRFAAAA////////c3ilYwAAAAN0Uk5T//8A18oNQQAAAD1JREFUeNp0zlEKACAIA9Bt9z90bZBZkQj29qFBEuBOzQHSnWTTyckEfqUuZgFvslH4ch3qLCO/Kr8cAgwATw4Ax6XRCcoAAAAASUVORK5CYII="), move';
+var cursorGrab = ' url("data:,"), move';
 var zoomSteps = 10;
 var zoomInFactor;
 var zoomOutFactor;
